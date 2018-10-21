@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" style="">
+    <title>my vector image
+    </title>                                    <!-- Created with Vector Paint - http://www.vectorpaint.yaks.com/ https://chrome.google.com/webstore/detail/hnbpdiengicdefcjecjbnjnoifekhgdo -->
+    <rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="#FFFFFF" stroke="none"/>
+    <g class="currentLayer" style="">
+
+        <title>Layer 1</title>
+
+        <path fill="#dadada" fill-opacity="1" stroke="#222222" stroke-opacity="1" stroke-width="2"
+              stroke-dasharray="none" stroke-linejoin="round" stroke-linecap="butt" stroke-dashoffset=""
+              fill-rule="nonzero" opacity="1" marker-start="" marker-mid="" marker-end=""
+              d="M2.004026026878746,32.33696377089497 C2.004026026878746,2.0274360713052375 11.16063577351132,2.260889535841907 32.20383628703633,2.260889535841907 C53.24705016578714,2.260889535841907 63.13001983853379,2.0274360713052375 62.40365991241971,32.33696377089497 C61.67728662107983,62.64647664992449 48.888823782973674,62.413023185387814 32.20383628703633,62.413023185387814 C15.518862156324772,62.413023185387814 2.004026026878746,62.64647664992449 2.004026026878746,32.33696377089497 z"
+              id="svg_1" class=""/>
+
+        <text fill="#000000" font-size="50" font-family="Georgia, serif" x="21" y="50">?</text>
+
+    </g>
+
+</svg>
